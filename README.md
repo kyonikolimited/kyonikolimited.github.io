@@ -1,4 +1,4 @@
-Privacy Policy
+*Privacy Policy*
 
 The ‘Block Dog - Crypto Arcade Game’ application does not collect, use, save, or have any access to your personal data.
 
@@ -11,4 +11,4 @@ The owner of the ‘Block Dog - Crypto Arcade Game’ app cannot be held liable 
 Support or Contact
 Contact address: support@kyoniko.com
 
-This project is maintained by Kyoniko Limited
+This project is maintained by Kyoniko Limited.
