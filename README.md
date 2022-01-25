@@ -1,4 +1,4 @@
-*Privacy Policy*
+**Privacy Policy**
 
 The ‘Block Dog - Crypto Arcade Game’ application does not collect, use, save, or have any access to your personal data.
 
