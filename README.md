@@ -8,8 +8,8 @@ Check back for updates to the privacy policy
 
 The owner of the ‘Block Dog - Crypto Arcade Game’ app cannot be held liable for any incorrectly displayed information. The app is not affiliated with any cryptocurrency and none of the information provided should be taken as financial advice.
 
-**Support**
+**Contact**
 
-Contact address: support@kyoniko.com
+support@kyoniko.com
 
 This project is maintained by Kyoniko Limited.
